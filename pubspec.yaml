@@ -1,10 +1,10 @@
 name: gm_generate
-description: A simple command-line application.
+description: A useful command-line application to provide generate class model.
 version: 1.0.0
-homepage: https://www.example.com
+homepage: https://github.com/irwan75/gm_generate
 
 environment:
-  sdk: '>=2.14.2 <3.0.0'
+  sdk: '>=2.14.1 <3.0.0'
 
 
 # dependencies:
